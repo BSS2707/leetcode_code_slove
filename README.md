@@ -20,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/BSS2707/leetcode_code_slove/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BSS2707/leetcode_code_slove/tree/master/0009-palindrome-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BSS2707/leetcode_code_slove/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BSS2707/leetcode_code_slove/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
