@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/BSS2707/leetcode_code_slove/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/BSS2707/leetcode_code_slove/tree/master/0010-regular-expression-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BSS2707/leetcode_code_slove/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BSS2707/leetcode_code_slove/tree/master/0010-regular-expression-matching) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
