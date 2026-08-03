@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BSS2707/leetcode_code_slove/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/BSS2707/leetcode_code_slove/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/BSS2707/leetcode_code_slove/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BSS2707/leetcode_code_slove/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BSS2707/leetcode_code_slove/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/BSS2707/leetcode_code_slove/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/BSS2707/leetcode_code_slove/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -136,9 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BSS2707/leetcode_code_slove/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/BSS2707/leetcode_code_slove/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BSS2707/leetcode_code_slove/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/BSS2707/leetcode_code_slove/tree/master/0021-merge-two-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/BSS2707/leetcode_code_slove/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
