@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/BSS2707/leetcode_code_slove/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/BSS2707/leetcode_code_slove/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0040-combination-sum-ii) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/BSS2707/leetcode_code_slove/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/BSS2707/leetcode_code_slove/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0040-combination-sum-ii) |
 ## Linked List
 |  |
 | ------- |
