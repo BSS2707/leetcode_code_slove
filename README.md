@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BSS2707/leetcode_code_slove/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/BSS2707/leetcode_code_slove/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/BSS2707/leetcode_code_slove/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/BSS2707/leetcode_code_slove/tree/master/0043-multiply-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BSS2707/leetcode_code_slove/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/BSS2707/leetcode_code_slove/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BSS2707/leetcode_code_slove/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/BSS2707/leetcode_code_slove/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/BSS2707/leetcode_code_slove/tree/master/0043-multiply-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/BSS2707/leetcode_code_slove/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BSS2707/leetcode_code_slove/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
