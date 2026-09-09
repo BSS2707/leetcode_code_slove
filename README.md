@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BSS2707/leetcode_code_slove/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/BSS2707/leetcode_code_slove/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/BSS2707/leetcode_code_slove/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/BSS2707/leetcode_code_slove/tree/master/0115-distinct-subsequences) |
 ## Math
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/BSS2707/leetcode_code_slove/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/BSS2707/leetcode_code_slove/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/BSS2707/leetcode_code_slove/tree/master/0053-maximum-subarray) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BSS2707/leetcode_code_slove/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/BSS2707/leetcode_code_slove/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
