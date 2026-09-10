@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BSS2707/leetcode_code_slove/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/BSS2707/leetcode_code_slove/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/BSS2707/leetcode_code_slove/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/BSS2707/leetcode_code_slove/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BSS2707/leetcode_code_slove/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/BSS2707/leetcode_code_slove/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/BSS2707/leetcode_code_slove/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
