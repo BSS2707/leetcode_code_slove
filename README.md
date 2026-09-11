@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/BSS2707/leetcode_code_slove/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/BSS2707/leetcode_code_slove/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/BSS2707/leetcode_code_slove/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/BSS2707/leetcode_code_slove/tree/master/0115-distinct-subsequences) |
 ## Math
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/BSS2707/leetcode_code_slove/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/BSS2707/leetcode_code_slove/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/BSS2707/leetcode_code_slove/tree/master/0055-jump-game) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BSS2707/leetcode_code_slove/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/BSS2707/leetcode_code_slove/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/BSS2707/leetcode_code_slove/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BSS2707/leetcode_code_slove/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
