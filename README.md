@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/BSS2707/leetcode_code_slove/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/BSS2707/leetcode_code_slove/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/BSS2707/leetcode_code_slove/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/BSS2707/leetcode_code_slove/tree/master/0060-permutation-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/BSS2707/leetcode_code_slove/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/BSS2707/leetcode_code_slove/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/BSS2707/leetcode_code_slove/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/BSS2707/leetcode_code_slove/tree/master/0060-permutation-sequence) |
 ## Enumeration
 |  |
 | ------- |
