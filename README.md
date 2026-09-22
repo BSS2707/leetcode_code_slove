@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BSS2707/leetcode_code_slove/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/BSS2707/leetcode_code_slove/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/BSS2707/leetcode_code_slove/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/BSS2707/leetcode_code_slove/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/BSS2707/leetcode_code_slove/tree/master/0066-plus-one) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
