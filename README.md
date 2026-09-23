@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BSS2707/leetcode_code_slove/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/BSS2707/leetcode_code_slove/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/BSS2707/leetcode_code_slove/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/BSS2707/leetcode_code_slove/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/BSS2707/leetcode_code_slove/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BSS2707/leetcode_code_slove/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/BSS2707/leetcode_code_slove/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/BSS2707/leetcode_code_slove/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BSS2707/leetcode_code_slove/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/BSS2707/leetcode_code_slove/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/BSS2707/leetcode_code_slove/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/BSS2707/leetcode_code_slove/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BSS2707/leetcode_code_slove/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/BSS2707/leetcode_code_slove/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/BSS2707/leetcode_code_slove/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Trie
 |  |
