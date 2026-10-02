@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BSS2707/leetcode_code_slove/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/BSS2707/leetcode_code_slove/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/BSS2707/leetcode_code_slove/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BSS2707/leetcode_code_slove/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BSS2707/leetcode_code_slove/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0074-search-a-2d-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/BSS2707/leetcode_code_slove/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
