@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/BSS2707/leetcode_code_slove/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/BSS2707/leetcode_code_slove/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/BSS2707/leetcode_code_slove/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/BSS2707/leetcode_code_slove/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BSS2707/leetcode_code_slove/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/BSS2707/leetcode_code_slove/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/BSS2707/leetcode_code_slove/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/BSS2707/leetcode_code_slove/tree/master/0075-sort-colors) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/BSS2707/leetcode_code_slove/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BSS2707/leetcode_code_slove/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/BSS2707/leetcode_code_slove/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BSS2707/leetcode_code_slove/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/BSS2707/leetcode_code_slove/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/BSS2707/leetcode_code_slove/tree/master/0075-sort-colors) |
 ## Newton's Method
 |  |
 | ------- |
@@ -334,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BSS2707/leetcode_code_slove/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/BSS2707/leetcode_code_slove/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
