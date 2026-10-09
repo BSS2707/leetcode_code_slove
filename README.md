@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BSS2707/leetcode_code_slove/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/BSS2707/leetcode_code_slove/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/BSS2707/leetcode_code_slove/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BSS2707/leetcode_code_slove/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BSS2707/leetcode_code_slove/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/BSS2707/leetcode_code_slove/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BSS2707/leetcode_code_slove/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
