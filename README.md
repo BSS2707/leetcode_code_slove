@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/BSS2707/leetcode_code_slove/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BSS2707/leetcode_code_slove/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1260-shift-2d-grid](https://github.com/BSS2707/leetcode_code_slove/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BSS2707/leetcode_code_slove/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BSS2707/leetcode_code_slove/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/BSS2707/leetcode_code_slove/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
