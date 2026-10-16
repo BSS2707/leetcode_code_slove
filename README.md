@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/BSS2707/leetcode_code_slove/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/BSS2707/leetcode_code_slove/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/BSS2707/leetcode_code_slove/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/BSS2707/leetcode_code_slove/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/BSS2707/leetcode_code_slove/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BSS2707/leetcode_code_slove/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BSS2707/leetcode_code_slove/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BSS2707/leetcode_code_slove/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/BSS2707/leetcode_code_slove/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/BSS2707/leetcode_code_slove/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/BSS2707/leetcode_code_slove/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/BSS2707/leetcode_code_slove/tree/master/0115-distinct-subsequences) |
 ## Math
 |  |
