@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BSS2707/leetcode_code_slove/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BSS2707/leetcode_code_slove/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/BSS2707/leetcode_code_slove/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BSS2707/leetcode_code_slove/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/BSS2707/leetcode_code_slove/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0090-subsets-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BSS2707/leetcode_code_slove/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/BSS2707/leetcode_code_slove/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Trie
 |  |
 | ------- |
