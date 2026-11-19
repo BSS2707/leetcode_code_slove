@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BSS2707/leetcode_code_slove/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BSS2707/leetcode_code_slove/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BSS2707/leetcode_code_slove/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BSS2707/leetcode_code_slove/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BSS2707/leetcode_code_slove/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -484,4 +488,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/BSS2707/leetcode_code_slove/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BSS2707/leetcode_code_slove/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
