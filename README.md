@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/BSS2707/leetcode_code_slove/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/BSS2707/leetcode_code_slove/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BSS2707/leetcode_code_slove/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BSS2707/leetcode_code_slove/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BSS2707/leetcode_code_slove/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BSS2707/leetcode_code_slove/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/BSS2707/leetcode_code_slove/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BSS2707/leetcode_code_slove/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BSS2707/leetcode_code_slove/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BSS2707/leetcode_code_slove/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Bracket Sequences
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/BSS2707/leetcode_code_slove/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BSS2707/leetcode_code_slove/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BSS2707/leetcode_code_slove/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Range Minimum/Maximum Query
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/BSS2707/leetcode_code_slove/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BSS2707/leetcode_code_slove/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BSS2707/leetcode_code_slove/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/BSS2707/leetcode_code_slove/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BSS2707/leetcode_code_slove/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BSS2707/leetcode_code_slove/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BSS2707/leetcode_code_slove/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BSS2707/leetcode_code_slove/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Search Tree
